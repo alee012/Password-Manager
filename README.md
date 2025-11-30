@@ -11,7 +11,7 @@ Note: I only tested this with macOS, but in theory it should work with Windows.
  1. Download and unzip PasswordManager.zip to somewhere. 
  2. Install `cryptography` library. You can use the command `pip install -r requirements.txt` or `pip install cryptography` to achieve this. 
  3. Open PasswordManager directory with an editor.
- 4. Run `main.py`. You can use the command `python main.py` achieve this. 
+ 4. Run `main.py`. You can use the command `python main.py` to achieve this. 
 
 ## How It Works 
 
