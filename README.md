@@ -4,7 +4,7 @@ A password manager built with Python and Tkinter. Developed for learning purpose
 
 This project is a local desktop application that allows users to store passwords securely using cryptography.
 
-Note: I only tested this with macOS, but in theory it should work with Windows. 
+Note: I have only tested this with macOS, but in theory it should work with Windows. 
 
 ## Testing The Program
 
